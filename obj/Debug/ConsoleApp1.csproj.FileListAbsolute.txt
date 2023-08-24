@@ -1,0 +1,7 @@
+D:\sqlphase2\assignment\23-04-2023\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\sqlphase2\assignment\23-04-2023\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\sqlphase2\assignment\23-04-2023\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\sqlphase2\assignment\23-04-2023\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\sqlphase2\assignment\23-04-2023\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\sqlphase2\assignment\23-04-2023\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\sqlphase2\assignment\23-04-2023\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
